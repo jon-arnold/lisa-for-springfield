@@ -1,17 +1,16 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2020-01-18
 img: cabin.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: January 2020
+client: The Client
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: The description of the project
+
 ---
 
-
-# Lisa DiVirgilio's Platform
 
 ## COVID-19 Relief for Springfield
 As we continue to adapt to the ever-changing face of this global crisis, Springfield must continue to stay focused on the needs of our hard-working families and those at greater risk to the virus. We will:

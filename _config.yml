@@ -51,7 +51,7 @@ address:
   - line: Springfield, TN 37172
 
 # Credits content
-credits: 'Lisa Arnold '
+credits: 'Lisa Arnold bio blurb goes here'
 
 # Build settings
 markdown: kramdown
