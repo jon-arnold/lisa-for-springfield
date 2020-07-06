@@ -1,10 +1,10 @@
 # Site settings
 title: Lisa for Springfield
-email: your-email@domain.com
+email: jonathonarnold@me.com
 url: https://www.lisaforspringfield.com
 description: "Representing Ward Five of Springfield, Tennessee"
 keywords: ""
-skills: "Entrepreneur –  – Leader"
+skills: "Representing Ward Five of Springfield, Tennessee"
 meta_author: Lisa Arnold
 
 # Google webmaster tools
@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Lisa Arnold
-  location: Springfield, TN
+  location: Lisa Arnold
   social: Get in Touch
   credits: 
 
@@ -51,7 +51,7 @@ address:
   - line: Springfield, TN 37172
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Lisa Arnold '
 
 # Build settings
 markdown: kramdown
