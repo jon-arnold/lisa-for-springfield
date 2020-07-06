@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 5
+date: 2020-01-18
+img: cabin.png
+alt: image-alt
+description: Public Safety, Together
+
+---
+
+Springfield police have overseen a decrease in the crime rate in our city, bucking the national trend. Further, our police department exceeds Tennessee regulations and standards for training and safey protocol. We will continue to support our police and first responders, but will augment their efforts with other programs that are proven to increase community bonds and decrease crime and instability in our neighborhoods:
+
+* Education and partnership programs for youth and adults alongside our city's key departments.
+* Support local youth development and engagement programs.
+* Support social services and help lines for at-risk individuals or families.
