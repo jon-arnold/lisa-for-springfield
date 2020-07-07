@@ -1,60 +1,16 @@
 ---
 layout: default
-modal-id: 3
-date: 2020-01-18
-img: cabin.png
-alt: image-alt
-project-date: January 2020
-client: The Client
-category: Web Development
-description: The description of the project
+modal-id: 4
+date: 2020-04-18
+img: growth.png
+alt: Sustainable Growth Helps Us All Grow
+title: Sustainable Growth Helps Us All Grow
 
 ---
 
-
-## COVID-19 Relief for Springfield
-As we continue to adapt to the ever-changing face of this global crisis, Springfield must continue to stay focused on the needs of our hard-working families and those at greater risk to the virus. We will:
-
-* Continue to support best practices and actions recommended by global and US health experts to prevent the spread of the disease.
-* Support emergency assistance for those in devastating situations (homelessness, debt, foreclosure, etc).
-* Ensure public testing and healthcare programs are strong, fast, and available for all who need them.
-
-
-## Helping Small Businesses Take Hold & Thrive
-Springfield is growing and we have more reason than ever to be proud of our city. We should tend to the growth of our city to ensure we reap all the benefits of the hard work we've all put in.
-
-* Give a leg up to any new small businesses in Springfield by keeping development competitive and ensuring small businesses are aware of and have access to the tools and programs they need to succeed.
-* Continue to attract businesses that our community needs and wants, while maintaining an inclusive and diverse business culture in Springfield — serving all spectrums of business and walks of life.
-* Support our businesses as they adapt to the "new normal" of serving customers in a pandemic environment.
-
-
-## Sustainable Growth Helps Us All Grow
 While Springfield's growth continues to outpace years past, we'd be foolish to forget the history and cultural make-up of our city. We must balance walking confidently into our future with a respect and care for what got us to where we are today.
 
 * While new development blossoms, we need to create and preserve affordable housing to all those who call Springfield home.
 * We'll continue to take steps to upgrade our infrastructure in ways that make sense for our community's needs, today and tomorrow — without major impact to the tax rate for our citizens.
 * Use key infrastructure improvements to improve public health, as well as community prosperity.
 * Our city acts as a historical waypoint for residents and tourists alike. We must do our best to preserve historical architecture and elements to preserve the character and history of Springfield.
-
-
-## Public Safety, Together
-Springfield police have overseen a decrease in the crime rate in our city, bucking the national trend. Further, our police department exceeds Tennessee regulations and standards _[insert facts from police chief……]_. We will continue to support our police and first responders, but will augment their efforts with other programs that are proven to increase community bonds and decrease crime and instability in our neighborhoods:
-
-* Education and partnership programs for youth and adults alongside our city's key departments.
-* Support local youth development and engagement programs.
-* Support social services and help lines for at-risk individuals or families.
-
-
-## Education for Everyone
-As the world continues to change in both working life and the skills needed to do today's jobs, Springfield should foster a strong and agile workforce who can meet those needs. We will push for equality and equity in our education programs, so that everyone has a great opportunity for a career in and around our city.
-
-* Support hands-on training programs for our current workforce to help close the skills gap.
-* Support a strong K-12 educational foundation for our city's future leaders.
-* Support and promote youth education programs to augment K-12 and college education, with a focus on closing the educational achievement gap often seen across gender, ethnicity, and socioeconomic statuses.
-
- 
-## Aging with Dignity
-Robertson County is an official "Retire Tennessee" community, and Springfield takes that charge seriously. We must continue to provide a safe, affordable, and enjoyable place for our senior citizens to call home.
-
-* Ensure that seniors have safe access to the services they need, especially during the time of COVID-19 and the high risks that introduces.
-* Ensure that seniors have affordable and practical housing options that meet their needs, especially as the housing market continues to change in our community.

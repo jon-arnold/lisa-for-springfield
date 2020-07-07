@@ -171,6 +171,14 @@ header .intro-text .skills {
     border: 0;
 }
 
+ul {
+    text-align: left;
+}
+
+.list-inline {
+    text-align: center;
+}
+
 section {
     padding: 100px 0;
 }
