@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator>
-  <link href="https://www.lisaforspringfield.com/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="https://www.lisaforspringfield.com/" rel="alternate" type="text/html" />
-  <updated>2020-07-06T21:53:52-05:00</updated>
-  <id>https://www.lisaforspringfield.com/</id>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2020-07-06T22:09:09-05:00</updated>
+  <id>http://localhost:4000/</id>
 
   
     <title type="html">Lisa for Springfield</title>
@@ -21,11 +21,11 @@
   
     <entry>
       <title type="html">COVID-19 Safety for Springfield</title>
-      <link href="https://www.lisaforspringfield.com/" rel="alternate" type="text/html" title="COVID-19 Safety for Springfield" />
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="COVID-19 Safety for Springfield" />
       <published>2020-06-18T00:00:00-05:00</published>
       <updated>2020-06-18T00:00:00-05:00</updated>
-      <id>https://www.lisaforspringfield.com/covid</id>
-      <content type="html" xml:base="https://www.lisaforspringfield.com/">&lt;p&gt;As we continue to adapt to the ever-changing face of this global crisis, Springfield must continue to stay focused on the needs of our hard-working families and those at greater risk to the virus. We will:&lt;/p&gt;
+      <id>http://localhost:4000/covid</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;As we continue to adapt to the ever-changing face of this global crisis, Springfield must continue to stay focused on the needs of our hard-working families and those at greater risk to the virus. We will:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Continue to support best practices and actions recommended by global and US health experts to prevent the spread of the disease.&lt;/li&gt;
@@ -59,11 +59,11 @@
   
     <entry>
       <title type="html">Helping Small Business Thrive</title>
-      <link href="https://www.lisaforspringfield.com/" rel="alternate" type="text/html" title="Helping Small Business Thrive" />
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Helping Small Business Thrive" />
       <published>2020-05-18T00:00:00-05:00</published>
       <updated>2020-05-18T00:00:00-05:00</updated>
-      <id>https://www.lisaforspringfield.com/business</id>
-      <content type="html" xml:base="https://www.lisaforspringfield.com/">&lt;p&gt;Springfield is growing and we have more reason than ever to be proud of our city. We should tend to the growth of our city to ensure we reap all the benefits of the hard work we’ve all put in.&lt;/p&gt;
+      <id>http://localhost:4000/business</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;Springfield is growing and we have more reason than ever to be proud of our city. We should tend to the growth of our city to ensure we reap all the benefits of the hard work we’ve all put in.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Give a leg up to any new small businesses in Springfield by keeping development competitive and ensuring small businesses are aware of and have access to the tools and programs they need to succeed.&lt;/li&gt;
@@ -97,11 +97,11 @@
   
     <entry>
       <title type="html">Sustainable Growth Helps Us All Grow</title>
-      <link href="https://www.lisaforspringfield.com/" rel="alternate" type="text/html" title="Sustainable Growth Helps Us All Grow" />
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Sustainable Growth Helps Us All Grow" />
       <published>2020-04-18T00:00:00-05:00</published>
       <updated>2020-04-18T00:00:00-05:00</updated>
-      <id>https://www.lisaforspringfield.com/growth</id>
-      <content type="html" xml:base="https://www.lisaforspringfield.com/">&lt;p&gt;While Springfield’s growth continues to outpace years past, we’d be foolish to forget the history and cultural make-up of our city. We must balance walking confidently into our future with a respect and care for what got us to where we are today.&lt;/p&gt;
+      <id>http://localhost:4000/growth</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;While Springfield’s growth continues to outpace years past, we’d be foolish to forget the history and cultural make-up of our city. We must balance walking confidently into our future with a respect and care for what got us to where we are today.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;While new development blossoms, we need to create and preserve affordable housing to all those who call Springfield home.&lt;/li&gt;
@@ -136,11 +136,11 @@
   
     <entry>
       <title type="html">Public Safety, Together</title>
-      <link href="https://www.lisaforspringfield.com/" rel="alternate" type="text/html" title="Public Safety, Together" />
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Public Safety, Together" />
       <published>2020-03-18T00:00:00-05:00</published>
       <updated>2020-03-18T00:00:00-05:00</updated>
-      <id>https://www.lisaforspringfield.com/safety</id>
-      <content type="html" xml:base="https://www.lisaforspringfield.com/">&lt;p&gt;Springfield police have overseen a decrease in the crime rate in our city, bucking the national trend. Further, our police department exceeds Tennessee regulations and standards for training and safey protocol. We will continue to support our police and first responders, but will augment their efforts with other programs that are proven to increase community bonds and decrease crime and instability in our neighborhoods:&lt;/p&gt;
+      <id>http://localhost:4000/safety</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;Springfield police have overseen a decrease in the crime rate in our city, bucking the national trend. Further, our police department exceeds Tennessee regulations and standards for training and safey protocol. We will continue to support our police and first responders, but will augment their efforts with other programs that are proven to increase community bonds and decrease crime and instability in our neighborhoods:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Education and partnership programs for youth and adults alongside our city’s key departments.&lt;/li&gt;
@@ -174,11 +174,11 @@
   
     <entry>
       <title type="html">Education for Everyone</title>
-      <link href="https://www.lisaforspringfield.com/" rel="alternate" type="text/html" title="Education for Everyone" />
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Education for Everyone" />
       <published>2020-02-18T00:00:00-06:00</published>
       <updated>2020-02-18T00:00:00-06:00</updated>
-      <id>https://www.lisaforspringfield.com/education</id>
-      <content type="html" xml:base="https://www.lisaforspringfield.com/">&lt;p&gt;As the world continues to change in both working life and the skills needed to do today’s jobs, Springfield should foster a strong and agile workforce who can meet those needs. We will push for equality and equity in our education programs, so that everyone has a great opportunity for a career in and around our city.&lt;/p&gt;
+      <id>http://localhost:4000/education</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;As the world continues to change in both working life and the skills needed to do today’s jobs, Springfield should foster a strong and agile workforce who can meet those needs. We will push for equality and equity in our education programs, so that everyone has a great opportunity for a career in and around our city.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Support hands-on training programs for our current workforce to help close the skills gap.&lt;/li&gt;
@@ -212,11 +212,11 @@
   
     <entry>
       <title type="html">Aging with Dignity</title>
-      <link href="https://www.lisaforspringfield.com/" rel="alternate" type="text/html" title="Aging with Dignity" />
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Aging with Dignity" />
       <published>2020-01-18T00:00:00-06:00</published>
       <updated>2020-01-18T00:00:00-06:00</updated>
-      <id>https://www.lisaforspringfield.com/dignity</id>
-      <content type="html" xml:base="https://www.lisaforspringfield.com/">&lt;p&gt;Robertson County is an official “Retire Tennessee” community, and Springfield takes that charge seriously. We must continue to provide a safe, affordable, and enjoyable place for our senior citizens to call home.&lt;/p&gt;
+      <id>http://localhost:4000/dignity</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;p&gt;Robertson County is an official “Retire Tennessee” community, and Springfield takes that charge seriously. We must continue to provide a safe, affordable, and enjoyable place for our senior citizens to call home.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Ensure that seniors have safe access to the services they need, especially during the time of COVID-19 and the high risks that introduces.&lt;/li&gt;
