@@ -29,7 +29,13 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #1b365d;
+    color: #780000;
+}
+
+a#body {
+    outline: 0;
+    color: #fff;
+    text-decoration: underline;
 }
 
 h1,
